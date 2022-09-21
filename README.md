@@ -1,1 +1,1 @@
-##### RegEx (Regular Expression) with javaScript
+##### RegEx (Regular Expression) with JavaScript
