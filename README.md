@@ -1,1 +1,1 @@
-##### RegEx-Cheat-Sheet with javaScript
+##### RegEx (Regular Expression) with javaScript
